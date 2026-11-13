@@ -7,10 +7,10 @@
 
 | ファイル | 内容 |
 |---|---|
-| [survey_hazard_detection.md](survey_hazard_detection.md) | 入門。主要論文の一覧、推奨する読む順番、研究の流れ（英語・日本語） |
-| [survey_scene_centric.md](survey_scene_centric.md) | **シーン中心**: 映像全体について、事故がいつ起きるかを予測する（accident anticipation、2016–2026） |
-| [survey_risk_region.md](survey_risk_region.md) | **危険領域**: 危険が**どこに**あるか（危険物体の特定、リスクヒートマップ、注意予測、VLM による根拠付き推論） |
-| [survey_affordance_centric.md](survey_affordance_centric.md) | **アフォーダンス中心**: 移動できる空間が失われる・変化することを危険とみなす（traversability、freespace/occupancy forecasting、将来経路予測） |
+| [survey_hazard_detection.md](survey/survey_hazard_detection.md) | 入門。主要論文の一覧、推奨する読む順番、研究の流れ（英語・日本語） |
+| [survey_scene_centric.md](/survey/survey_scene_centric.md) | **シーン中心**: 映像全体について、事故がいつ起きるかを予測する（accident anticipation、2016–2026） |
+| [survey_risk_region.md](survey/survey_risk_region.md) | **危険領域**: 危険が**どこに**あるか（危険物体の特定、リスクヒートマップ、注意予測、VLM による根拠付き推論） |
+| [survey_affordance_centric.md](survey/survey_affordance_centric.md) | **アフォーダンス中心**: 移動できる空間が失われる・変化することを危険とみなす（traversability、freespace/occupancy forecasting、将来経路予測） |
 | [oss.md](oss.md) | 関連する OSS・プロジェクトページへのリンク |
 
 各サーベイは同じ章立てになっている: 定義とスコープ → 問題設定と評価指標 → データセット → 手法の系譜 → 主要論文の要約 → 歩行者視点への適用 → オープン問題 → 参考文献。
